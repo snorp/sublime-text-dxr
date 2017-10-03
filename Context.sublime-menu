@@ -1,0 +1,7 @@
+[
+{
+    "id" : "dxrOpen",
+    "caption" : "Open in Mozilla DXR",
+    "command" : "open_in_dxr"
+}
+]
